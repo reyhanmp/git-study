@@ -1,0 +1,20 @@
+Halow Halow, kalau kalian bisa baca ini berarti kalian udh bisa liat web github dan bisa ngeclone
+
+nah skrg coba deh, latian
+
+1. Buat repo github kalian masing-masing dengan nama skhole-latian-<nama panggilan>
+2. Buat 1 file .txt berisi nama dan ceritain hal menarik di hidup kalian
+3. lakukan commit dan push remote repository kalian (pesan commitnya bebas bro)
+
+ctt :
+kalo lupa command, sabi baca baca ini
+
+git add = buat masukin semua file kalian ke "staging enviroment", kasarnya sih buat nyiapin file kalian sebelum di commit
+git commit -m "Pesan Kalian" = buat mem "upload" file yang sudah kalian add ke local repository
+git push = buat mem "upload" file yang sudah kalian commit ke remote repository, di langkah ini seharusnya file kalian sudah muncul di github
+
+
+recap command
+git add .
+git commit -m "Commit lalalala"
+git push
