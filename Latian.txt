@@ -1,9 +1,9 @@
 Halow Halow, kalau kalian bisa baca ini berarti kalian udh bisa liat web github dan bisa ngeclone
 
-nah skrg coba deh, latian
+nah skrg coba deh, latian individu :
 
-1. Buat repo github kalian masing-masing dengan nama skhole-latian-<nama panggilan>
-2. Buat 1 file .txt berisi nama dan ceritain hal menarik di hidup kalian
+1. Buat repo github kalian masing-masing dengan nama : skhole-latian-<nama panggilan>
+2. Buat 1 file .txt berisi nama dan ceritain hal menarik di hidup kalian (nama file bebas gan)
 3. lakukan commit dan push remote repository kalian (pesan commitnya bebas bro)
 
 ctt :
@@ -18,3 +18,10 @@ recap command
 git add .
 git commit -m "Commit lalalala"
 git push
+
+
+nah skrg coba lagi, but this time kalian berbarengan :
+
+1. Buat repo github dengan nama : skhole-latian-barengan
+2. Buat 1 file .txt dengan nama file "Kenalan Kuy.txt"
+3. Setiap orang mengisi file tersebut dengan nama dan nim masing, lakukan commit dengan akun github masing-masing
